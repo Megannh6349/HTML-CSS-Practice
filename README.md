@@ -8,6 +8,8 @@ This is a quick page designed to help Week One students recreate sites and learn
 
 * [Usage](#usage)
 
+* [Picture](#picture)
+
 * [License](#license)
 
 * [Contributing](#contributing)
@@ -20,7 +22,8 @@ This is a quick page designed to help Week One students recreate sites and learn
 
 To help other Week One/Two students practice
 
-
+## Picture
+![A screenshot of the web page](Screenshot.PNG)
   
 ## Contributing
 

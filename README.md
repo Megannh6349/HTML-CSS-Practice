@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a quick page designed to help Week One students recreate sites and learn HTML and CSS. They can look at the screenshot, research, and then attempt to recreate the page. Then, in Office Hours, they can show what they've done and review how they replicated each aspect of the site and ask questions on the parts they missed.
+This is a quick page designed to help Week One students recreate sites and learn HTML and CSS. They can look at the screenshot, research, and then attempt to recreate the page. Then, in Office Hours, they can show what they've done and review how they replicated each aspect of the site and ask questions on the parts they missed. You can find the repository [here](https://megannh6349.github.io/HTML-CSS-Practice/).
 
 ## Table of Contents 
 
